@@ -10,7 +10,7 @@ public class Six
     }
     void createStudentResult()
     {
-        s.setData("Nittalia zaheer abro", 18, "SoftwareEng", "18SW32");
+        s.setData("huzaif", 18, "SoftwareEng", "18SW72");
         s.getData();
         m.setDetails(88.5,93.3,68.7);
         m.getPerc();

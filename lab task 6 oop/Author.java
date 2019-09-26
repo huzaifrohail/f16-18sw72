@@ -48,7 +48,7 @@ System.out.println(huzaif.getName());
 System.out.println(huzaif.getEmail());
 System.out.println(huzaif.getGender());
 
-nittalia.setEmail("xyz@gmail.com");
+huzaif.setEmail("xyz@gmail.com");
 
 System.out.println(huazif.toString());
 
